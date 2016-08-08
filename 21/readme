@@ -1,0 +1,9 @@
+## part1
+
+    python part1.py | sort -n | head -1
+
+## part2
+
+There must be at least one weapon
+
+    python part2.py | sort -nr | head -1
