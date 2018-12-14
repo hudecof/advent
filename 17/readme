@@ -1,7 +1,0 @@
-## part1
-
-    python part1.py | wc -l
-
-## part2
-
-    python part2.py  | sort | uniq -c
