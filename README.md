@@ -11,3 +11,6 @@
 - **2019**: missing
 - **2020**: [https://source.apps.hudecof.net/hudecof/adventofcode-2020](https://source.apps.hudecof.net/hudecof/adventofcode-2020)
 - **2021**: [https://source.apps.hudecof.net/hudecof/adventofcode-2021](https://source.apps.hudecof.net/hudecof/adventofcode-2021)
+- **2022**: [https://source.apps.hudecof.net/hudecof/adventofcode-2022](https://source.apps.hudecof.net/hudecof/adventofcode-2022)
+- **2023**: [https://source.apps.hudecof.net/hudecof/adventofcode-2023](https://source.apps.hudecof.net/hudecof/adventofcode-2023)
+
